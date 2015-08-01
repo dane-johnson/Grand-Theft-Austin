@@ -1,0 +1,31 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.273 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dane\Desktop\Grand Theft Austin\Builds\v0.03_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.577972 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 257.
+Total: 0.420810 ms (FindLiveObjects: 0.030396 ms CreateObjectMapping: 0.032764 ms MarkObjects: 0.348175 ms  DeleteObjects: 0.008289 ms)
+
